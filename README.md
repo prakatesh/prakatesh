@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Mech-Ranger](https://drive.google.com/file/d/1tDBEK9LjBFRIFR4zh-M1mFou6ZCPnNZD/view?usp=sharing)
+- 🔭 I’m currently working on [Mech-Ranger]
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 One of my projects are available at srielumalaiyan](https://srielumalaiyan.netlify.app/)
+- 👨‍💻 One of my projects are available at [srielumalaiyan](https://srielumalaiyan.netlify.app/)
 
 - 💬 Ask me about **react,mongoDB,NodeJs,Express**
 
