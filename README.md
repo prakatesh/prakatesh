@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **prakatesh2020@gmail.com**
 
-- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1tDBEK9LjBFRIFR4zh-M1mFou6ZCPnNZD/view?usp=sharing)
+- 📄 Know about my experiences [my resume](https://tinyurl.com/resumeprax)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
