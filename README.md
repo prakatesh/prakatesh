@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prakatesh</h1>
 <h3 align="center">A passionate Fullstack developer from India, who have keen interest in designing and developing softwares.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakatesh&label=Profile%20views&color=0e75b6&style=flat" alt="prakatesh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakatesh" alt="prakatesh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p> <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="prakatesh" /> </p>
 
 - 🔭 I’m currently working on **Mech-Ranger**
 
