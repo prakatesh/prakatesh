@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Mech-Ranger**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Internet-of-things-and-cloud**
 
-- 👨‍💻 One of my projects are available at [srielumalaiyan](https://srielumalaiyan.netlify.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://portfolioprax.netlify.app/)
 
 - 💬 Ask me about **react,mongoDB,NodeJs,Express**
 
